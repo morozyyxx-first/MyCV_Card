@@ -136,6 +136,35 @@ tr, td {
     padding: 10px;
 }
 
+#projects-div {
+    margin-top: 50px;
+    border: 5px double black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#projects-div a {
+    display: inline-block;
+    color: black;
+    text-decoration-line: none;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out
+}
+
+#projects-div a:hover {
+    background: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 15px;
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.3);
+}
+
+#proj-lbl {
+    font-size: 20px;
+}
+
 footer {
     margin-top: 50px;
     color: rgb(103, 102, 102);
@@ -168,6 +197,6 @@ footer {
     border: 1px solid white;
     padding: 10px;
     border-radius: 15px;
-    transform: scale(1.3);
+    transform: scale(1.1);
     box-shadow: 0 4px 12px rgba(0, 123, 255, 0.3);
 }

@@ -103,6 +103,10 @@ function Main() {
                 A total of one year of commercial 
                 experience on a freelance or independent basis.
             </div>
+            <div id="projects-div">
+                <b id="proj-lbl">Projects:</b><br/>
+                <a href="https://anonwork-beta.vercel.app">anonwork</a>
+            </div>
             <div id="github-div">
                 <b id="contact-lbl">Contacts:</b><br/>
                 <b>GitHub: </b><a href="https://github.com/morozyyxx-first">github-link</a>. <br/>
