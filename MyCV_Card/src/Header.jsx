@@ -1,4 +1,4 @@
-import myPhoto from './assets/my_photo.jpg'
+import myPhoto from './assets/my_photo'
 
 function Header() {
     return (
