@@ -2,7 +2,7 @@
 function Header() {
     return (
         <header>
-            <img src="/src/assets/myPhoto.jpg" alt="Error of load image" />
+            <img src="/src/assets/myPhoto" alt="Error of load image" />
             <div id="head-info">
                 <h2>Viktor Moroz</h2>
                 <b>Profile:</b> Backend Python Developer / API Developer<br/>
