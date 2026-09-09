@@ -1,8 +1,9 @@
+import cvPhoto from "./assets/cv_photo.jpg";
 
 function Header() {
     return (
         <header>
-            <img src="assets/cv_photo.jpg" alt="Error of load image" />
+            <img src={cvPhoto} alt="Error of load image" />
             <div id="head-info">
                 <h2>Viktor Moroz</h2>
                 <b>Profile:</b> Backend Python Developer / API Developer<br/>
