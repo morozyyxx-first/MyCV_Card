@@ -40,6 +40,10 @@ function Main() {
                             <td>Aiogram 3.x</td>
                             <td>Advanced</td>
                         </tr>
+                        <tr>
+                            <td>Git</td>
+                            <td>Regular</td>
+                        </tr>
                     </tbody>
                 </table>
                 <table>
