@@ -25,7 +25,11 @@ function Main() {
                             <td>Regular</td>
                         </tr>
                         <tr>
-                            <td>SQLAlchemy (async version)</td>
+                            <td>Async FastAPI</td>
+                            <td>Advanced</td>
+                        </tr>
+                        <tr>
+                            <td>Async SQLAlchemy 2.0</td>
                             <td>Advanced</td>
                         </tr>
                         <tr>
