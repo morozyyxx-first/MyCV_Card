@@ -48,6 +48,10 @@ function Main() {
                             <td>Git</td>
                             <td>Regular</td>
                         </tr>
+                        <tr>
+                            <td>CI/CD</td>
+                            <td>Regular</td>
+                        </tr>
                     </tbody>
                 </table>
                 <table>
